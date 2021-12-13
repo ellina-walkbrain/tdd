@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Counter/> has number and two buttons 1`] = `
+<div>
+  <div
+    class="counter"
+  >
+    <h1>
+      counter입니다
+    </h1>
+    <button
+      class="plus-button"
+    >
+      +
+    </button>
+    <span>
+      0
+    </span>
+    <button
+      class="plus-button"
+    >
+      -
+    </button>
+  </div>
+</div>
+`;
+
+exports[`<Counter/> matches snapshot 1`] = `
+<div>
+  <div
+    class="counter"
+  >
+    <h1>
+      counter입니다
+    </h1>
+    <button
+      class="plus-button"
+    >
+      +
+    </button>
+    <span>
+      0
+    </span>
+    <button
+      class="plus-button"
+    >
+      -
+    </button>
+  </div>
+</div>
+`;
